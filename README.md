@@ -13,7 +13,7 @@
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
 
-**As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+**As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo 5 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 
 <!--
