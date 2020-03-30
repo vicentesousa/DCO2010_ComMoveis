@@ -15,6 +15,15 @@
 
 **As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo 5 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
+## Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala)
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte_03.ipynb)
+**Objetivos:**
+- Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
+- Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
+- Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
+
+**A entrega está descrita no hands-on.**
 
 <!--
 
