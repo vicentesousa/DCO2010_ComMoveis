@@ -27,17 +27,28 @@
 
 **A entrega está descrita no hands-on.**
 
-<!--
+## Parte 2
 
-# UNIDADE II
-
-## Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/hX.ipynb)
-### Objetivos
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio)
+#### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/hX.ipynb)
+#### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
 - Entender a modelagem da demultiplexação OFDM;
 - Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
-### [Projeto I - UNIDADE II](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/hX_projeto.ipynb)
+**A entrega está descrita no hands-on.**
+
+
+## Parte 3
+
+
+
+
+
+<!--
+
+# UNIDADE II
+
+
 -->
