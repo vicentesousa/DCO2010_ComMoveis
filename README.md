@@ -1,4 +1,4 @@
-# Material didático para o DCO1020: Comunicações Móveis (2020.1)
+# Material didático para o DCO1020: Comunicações Móveis
 
 ## Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
@@ -15,7 +15,7 @@
 
 **As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo 5 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
-## Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala)
+## Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte_03.ipynb)
 **Objetivos:**
