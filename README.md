@@ -42,7 +42,15 @@
 
 ## Parte 3
 
+### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G
+#### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/hX.ipynb)
+#### Objetivos
+- Entender o cálculo de taxa máxima de sistemas 3GPP-LTE;
+- Entender o cálculo de taxa máxima de sistemas 3GPP-NR;
+- Modelar o cálculo de taxa máxima de sistemas de comunicação;
+- Implementar o cálculo de taxa máxima de sistemas de comunicação usando o Python.
 
+**A entrega está descrita no hands-on.**
 
 
 
