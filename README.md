@@ -1,7 +1,5 @@
 # Material didático para o DCO1020: Comunicações Móveis
 
-## Parte 1
-
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
 #### [Avaliação de cobertura celular](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte01.ipynb)
@@ -27,6 +25,8 @@
 
 **A entrega está descrita no hands-on.**
 
+
+<!--
 ## Parte 2
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio)
@@ -54,7 +54,6 @@
 
 
 
-<!--
 
 # UNIDADE II
 
